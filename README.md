@@ -1,6 +1,7 @@
 # Shoe Landing Page Project  
 
 This is a small project designed for learning **HTML** and **CSS** by creating a simple and responsive landing page.  
+
 ![image](https://github.com/user-attachments/assets/0c04a46c-6c94-462e-9245-1b9952265a29)
 
 
